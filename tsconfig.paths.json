@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@app/*": ["src/*"],
+      "@custom/*": ["src/types/custom/*"],
+      "@typings/*": ["src/types/typings/*"],
+    }
+  }
+}
